@@ -2,7 +2,7 @@ In this tutorial I will tell you how to make Percentage Increases which allow sm
 
 First multiply x (your stat that you want to increment) by 100 
 then you set a stat called temp to 100
-next you will add your percent to y increment by a stat or a set number
-then you divide x by y
+next you will add your percent to temp, you may increment by a stat or a set number
+then you divide x by temp, and set temp to 0
 
 If you have x as 100 and y as 101 you will get an output of x = 101
